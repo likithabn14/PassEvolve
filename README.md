@@ -1,4 +1,5 @@
 PassEvolve – Behavioral Security Analyzer
+
 ---
 **Tagline**
  Stop creating predictable passwords before attackers predict them.
@@ -9,9 +10,7 @@ PassEvolve is a behavioral password security analyzer that evaluates not only th
 
 Unlike traditional password checkers, PassEvolve detects predictable password mutations such as changing only numbers or symbols while keeping the same root word.
 
-The application combines password strength estimation, similarity detection, behavioral analytics, and encrypted password history to help users build stronger password habits.
 ---
-
 **Features**
 
 ✔ User Login & Registration
@@ -41,8 +40,8 @@ The application combines password strength estimation, similarity detection, beh
 ✔ Secure Password Encryption
 
 ✔ Streamlit Dashboard
----
 
+---
 **Tech Stack**
 
 Frontend
@@ -56,8 +55,8 @@ Python
 Database
 
 SQLite
----
 
+---
 **Libraries**
 
 zxcvbn
@@ -65,8 +64,7 @@ cryptography
 rapidfuzz
 plotly
 pandas
+
 ---
-
 **Author**
-
 Likitha BN
